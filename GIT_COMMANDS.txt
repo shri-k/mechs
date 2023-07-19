@@ -1,0 +1,22 @@
+basic git commands
+
+1. login
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+2. push/pull
+
+git add filename.exe
+git commit -m "comment"
+git push
+
+git pull (pull stuff from online)
+git clone [url] (setup new environment)
+
+3. terminal navigation
+
+cd .. (go back)
+cd [directoryName] (go into folder)
+ls (list stuff)
+
